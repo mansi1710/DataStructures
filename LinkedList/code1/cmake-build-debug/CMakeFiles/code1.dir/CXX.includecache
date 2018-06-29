@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lenovo/CLionProjects/DataStructures/LinkedList/code1/main.cpp
+iostream
+-
+cmath
+-
+cstring
+-
+stdlib.h
+-
+stdio.h
+-
+
