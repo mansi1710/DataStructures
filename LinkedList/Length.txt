@@ -1,0 +1,19 @@
+Length of Linked List (Iterative and recursive):
+Iterative: 
+1. A= head pointer
+2. temp= A, count=0
+3. while(temp!= Null)
+	temp= temp->next;
+	count++
+4. retrun count
+
+Complexity: O(l)
+
+Recursive:
+int getCount(struct node* head)
+{
+	if(head== Null) return 1;
+	else {count+= getCount(head->next) return count;}
+}
+
+Complexity: O(l)
