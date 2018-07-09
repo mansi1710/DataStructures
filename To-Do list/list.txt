@@ -1,2 +1,3 @@
 1. Implement stack using priority queue, heap, deque
 2. range sum query : https://www.youtube.com/watch?v=ZBHKZF5w4YU
+3. sort a linked list, stack
